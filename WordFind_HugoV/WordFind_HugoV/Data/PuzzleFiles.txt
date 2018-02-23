@@ -1,0 +1,5 @@
+Puzzle1
+Puzzle2
+Alternative
+small
+small 10 by 10

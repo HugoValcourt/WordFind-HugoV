@@ -1,0 +1,10 @@
+D:\College\Second Year\Data Structures\Valcourt_Hugo_Assignment3\WordFind_HugoV\WordFind_HugoV\bin\Debug\WordFind_HugoV.exe.config
+D:\College\Second Year\Data Structures\Valcourt_Hugo_Assignment3\WordFind_HugoV\WordFind_HugoV\bin\Debug\WordFind_HugoV.exe
+D:\College\Second Year\Data Structures\Valcourt_Hugo_Assignment3\WordFind_HugoV\WordFind_HugoV\bin\Debug\WordFind_HugoV.pdb
+D:\College\Second Year\Data Structures\Valcourt_Hugo_Assignment3\WordFind_HugoV\WordFind_HugoV\obj\Debug\WordFind_HugoV.csprojResolveAssemblyReference.cache
+D:\College\Second Year\Data Structures\Valcourt_Hugo_Assignment3\WordFind_HugoV\WordFind_HugoV\obj\Debug\WordFind_HugoV.Interface.resources
+D:\College\Second Year\Data Structures\Valcourt_Hugo_Assignment3\WordFind_HugoV\WordFind_HugoV\obj\Debug\WordFind_HugoV.Properties.Resources.resources
+D:\College\Second Year\Data Structures\Valcourt_Hugo_Assignment3\WordFind_HugoV\WordFind_HugoV\obj\Debug\WordFind_HugoV.csproj.GenerateResource.Cache
+D:\College\Second Year\Data Structures\Valcourt_Hugo_Assignment3\WordFind_HugoV\WordFind_HugoV\obj\Debug\WordFind_HugoV.csproj.CoreCompileInputs.cache
+D:\College\Second Year\Data Structures\Valcourt_Hugo_Assignment3\WordFind_HugoV\WordFind_HugoV\obj\Debug\WordFind_HugoV.exe
+D:\College\Second Year\Data Structures\Valcourt_Hugo_Assignment3\WordFind_HugoV\WordFind_HugoV\obj\Debug\WordFind_HugoV.pdb
